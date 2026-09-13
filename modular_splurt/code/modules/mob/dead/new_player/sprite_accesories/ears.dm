@@ -154,3 +154,15 @@
 	icon_state = "hare"
 	color_src = MATRIXED
 	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/mam_ears/spaniel
+	name = "Spaniel"
+	icon_state = "spaniel"
+	matrixed_sections = MATRIX_RED
+	icon = 'modular_splurt/icons/mob/mam_ears.dmi'
+
+/datum/sprite_accessory/ears/mam_ears/spanielleggy
+	name = "Spaniel (Le Goom)"
+	icon_state = "spanielleggy"
+	matrixed_sections = MATRIX_RED_GREEN
+	icon = 'modular_splurt/icons/mob/mam_ears.dmi'
